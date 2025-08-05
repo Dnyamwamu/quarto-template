@@ -1,8 +1,8 @@
-# QUARTO website template 
+# QUARTO website template KALRO Website
 
 describe your website here
 
-view this website online at <https://lsc-hubs.github.io/quarto-template>
+view this website online at <https://Dnyamwamu.github.io/quarto-template>
 
 ---
 
