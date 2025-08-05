@@ -1,6 +1,6 @@
 # QUARTO website template KALRO Website
 
-describe your website here
+describe your website here not there
 
 view this website online at <https://Dnyamwamu.github.io/quarto-template>
 
